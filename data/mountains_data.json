@@ -1,0 +1,198 @@
+[
+    {
+      "sentence": "Mount Everest, towering at an awe-inspiring height of 29,032 feet (8,848 meters), is the highest peak on Earth.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Nestled in the majestic Himalayan range, straddling the border between Nepal and Tibet, this colossal mountain has captured the imagination of adventurers and climbers for centuries.",
+      "labels": ["O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Scaling its formidable slopes is a monumental feat, as climbers navigate treacherous icefalls, precarious crevasses, and the daunting South Col.",
+      "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "The summit of Mount Everest provides an unparalleled panoramic view, showcasing the breathtaking beauty of the surrounding peaks and the vast expanse of the Tibetan Plateau.",
+      "labels": ["O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "The Rocky Mountains, often referred to as the Rockies, form a grand geological backbone stretching across the western part of North America.",
+      "labels": ["O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "This expansive mountain range spans approximately 3,000 miles (4,800 kilometers) from British Columbia in Canada to New Mexico in the United States.",
+      "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Characterized by rugged peaks, alpine meadows, and diverse ecosystems, the Rockies are a haven for nature enthusiasts and outdoor adventurers.",
+      "labels": ["O", "O", "O", "O", "O","O", "O", "O", "O", "O","O", "O", "O", "O", "O","O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Iconic national parks, such as Yellowstone and Rocky Mountain National Park, are nestled within this majestic range, offering a haven for wildlife and a playground for those seeking the thrill of outdoor exploration.",
+      "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Kongur Tagh, standing proudly in the Pamir Mountains, is one of the notable peaks in Central Asia.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Climbing K2, the second-highest peak in the world, is a daring adventure that attracts skilled mountaineers from around the globe.",
+      "labels": ["O", "B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Gonggar Mountain, located in the eastern Himalayas, offers a mesmerizing landscape for those seeking a peaceful retreat.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "The rugged slopes of Kongur Tagh challenge even the most experienced climbers, requiring both skill and determination.",
+      "labels": ["O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "K2, also known as Mount Godwin-Austen, presents a formidable ascent with its steep and icy slopes.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Gonggar Mountain's serene beauty and remote location make it a hidden gem for nature enthusiasts and photographers.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Mount Elbrus, the highest peak in Europe, majestically rises in the Caucasus Mountains, offering breathtaking views of the surrounding landscapes.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Mont Blanc, the highest peak in the Alps, attracts climbers and tourists alike with its stunning beauty and challenging ascent.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Nestled in the Pennine Alps, Monte Rosa stands tall as the second-highest peak in the Alps, offering a pristine alpine environment for exploration.",
+      "labels": ["O", "O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Climbing Mount Elbrus requires a combination of mountaineering skills and endurance, as adventurers navigate its snowy slopes and icy ridges.",
+      "labels": ["O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "The ascent of Mont Blanc poses challenges and rewards, with climbers treated to unparalleled views of the French and Italian Alps from its summit.",
+      "labels": ["O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Exploring the glaciers and valleys of Monte Rosa is a captivating experience for those seeking the beauty of high-altitude alpine environments.",
+      "labels": ["O", "O", "O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Shkhara, the highest point in Georgia and the third-highest peak in the Caucasus Range, commands attention with its impressive elevation and snow-covered slopes.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Dykh-Tau, a prominent summit in the Caucasus Mountains, stands as the second-highest peak in Europe, attracting climbers seeking a challenging ascent.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Mount Kazbek, steeped in Georgian mythology and culture, is a stratovolcano with a distinct cone shape, making it a symbol of the region.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Climbing Shkhara demands technical skill and mountaineering expertise, as the route involves navigating challenging terrain and unpredictable weather.",
+      "labels": ["O", "B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Dykh-Tau's towering presence and challenging routes make it a sought-after destination for experienced climbers and mountaineering enthusiasts.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Mount Kazbek's glaciers and alpine meadows contribute to the diverse ecosystem surrounding this iconic peak, offering a rich tapestry of natural beauty.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Mulhacén, located in the Sierra Nevada range, proudly stands as the highest peak in mainland Spain.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Ben Nevis, towering over the Scottish Highlands, is the highest mountain in the British Isles and a popular destination for hikers and climbers.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Mount Olympus, steeped in Greek mythology and considered the home of the gods, is the highest peak in Greece and an iconic symbol of ancient legend.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O",  "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Climbing Mulhacén offers panoramic views of the Alpujarras and the surrounding Spanish countryside.",
+      "labels": ["O", "B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Ben Nevis's challenging terrain and unpredictable weather pose difficulties for climbers attempting to reach its summit.",
+      "labels": ["O", "B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+        "sentence": "Mount Olympus, with its towering peaks and rich biodiversity, has inspired countless myths and legends throughout the ages.",
+        "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Hoverla, the highest peak in Ukraine, is a majestic part of the Carpathian mountain range, offering stunning views of the surrounding landscapes.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Pip Ivan, also known as Hoverla's neighbor, is a prominent peak in the Ukrainian Carpathians, attracting hikers and nature enthusiasts.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Brebeneskul, situated in the Chornohora range, is the third-highest peak in Ukraine, known for its alpine meadows and diverse flora.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Climbing Hoverla is a popular activity for adventurers seeking a challenging yet rewarding experience in the Ukrainian Carpathians.",
+      "labels": ["O", "B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Pip Ivan's summit provides breathtaking views of the Carpathian landscape, making it a favorite destination for photographers and nature lovers.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Brebeneskul's diverse ecosystem and unique flora attract researchers and nature enthusiasts to explore its pristine mountain environment.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Hutyn Tomnatyk, nestled in the Carpathian Mountains of Ukraine, is known for its scenic beauty and serene alpine environment.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Pikuy, a lesser-known gem in the Ukrainian Carpathians, offers a tranquil retreat for those seeking solitude in the mountains.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Hora Parashka, situated in the Maramureș region, is a prominent peak in the Eastern Carpathians, attracting hikers with its picturesque landscapes.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Climbing Hutyn Tomnatyk provides adventurers with breathtaking views of the Carpathian wilderness and the surrounding valleys.",
+      "labels": ["O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Pikuy's unspoiled nature and diverse flora make it a haven for botanists and nature enthusiasts exploring the hidden treasures of the Carpathians.",
+      "labels": ["B-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "Hora Parashka's trails wind through ancient forests and alpine meadows, providing a unique and immersive experience for nature lovers.",
+      "labels": ["B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "I had been training to climb Mount Everest even though I didn't know it",
+      "labels": ["O", "O", "O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN", "O", "O", "O", "O", "O", "O"]
+    },
+    {
+      "sentence": "She started talking about how she had always wanted to climb the worlds highest mountain, Mount Everest.",
+      "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN"]
+    },
+    {
+      "sentence": "In my opinion there are a number of different mountains you should climb before even thinking about climbing Mount Everest.",
+      "labels": ["O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "O", "B-MOUNTAIN", "I-MOUNTAIN"]
+    },
+    {
+      "sentence": "Consider climbing Kilimanjaro, Mont Blanc, Elbrus, Mera and Island peaks, Cotopaxi and Chimborazo, Aconcagua and Denali.",
+      "labels": ["O", "O", "B-MOUNTAIN", "B-MOUNTAIN", "I-MOUNTAIN", "B-MOUNTAIN", "B-MOUNTAIN", "O", "O", "O", "B-MOUNTAIN", "O", "B-MOUNTAIN", "B-MOUNTAIN", "O", "B-MOUNTAIN"]
+    },
+    {
+      "sentence": "We often receive requests to climb Everest from newcomers.",
+      "labels": ["O", "O", "O", "O", "O", "O", "B-MOUNTAIN", "O", "O"]
+    }
+]
