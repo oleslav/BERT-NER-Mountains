@@ -1,14 +1,16 @@
 # BERT-NER-Mountains
 Pre-trained BERT fine-tuned on mountains dataset for Named entity recognition 
 
-Description:
-The files are designed specifically to work in Google Colab, because most of the work was done there.
+**Description:**
+
+The files are designed specifically to work in Google Colab, because most of the work was done there. Upload Train_NER_BERT.ipynb or Test_NER_BERT.ipynb to Google Colab for direct use.
 
 Files: 
 
 - data folder - contains a data and data specific scripts
-- weights folder - contains a weights for saved model
 - data/mountains_data.json - chatGPT-3.5 generated data in IOB format
+- data/mountains_data.csv - data converted to .csv format
+
 - requirements.txt - library that was used
 - Train_NER_BERT.ipynb - jupyter file to train and test
 - Test_NER_BERT.ipynb - jupyter file to load model and test
@@ -20,7 +22,7 @@ Files:
 
 2) There are few mountain names in the dataset, so it will be difficult for the model to find new mountains in the data
 
-3) ChatGPT 3.5 made a lot of mistakes when generate a sentences and labels for each words. This problem is partially solved by using this file search_data_issues.py
+3) ChatGPT 3.5 made a lot of mistakes when generate a sentences and labels for each words. This problem is partially solved by using this file **search_data_issues.py**
 
 ## How to Solve:
 
